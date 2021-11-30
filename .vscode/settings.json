@@ -1,0 +1,11 @@
+{
+    "cx.server": {
+        "url": "http://20.212.86.83/",
+        "alias": "server2016",
+        "username": "",
+        "password": "",
+        "project_id": 4,
+        "team_id": 2,
+        "project_name": "testDemo"
+    }
+}
